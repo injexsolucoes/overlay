@@ -1,0 +1,10 @@
+overlays/
+para_overlay/
+com_overlay/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.png
+*.jpg
+__pycache__/
